@@ -38,15 +38,16 @@ Ya está con mi usuario
 MONGODB_URI=mongodb+srv://<usuario>:<contraseña>@clusterdebook.qxwuc.mongodb.net/?retryWrites=true&w=majority
 
 
-Ejecución
+  **Ejecución**  
+
 Para iniciar la aplicación en modo desarrollo, ejecuta:
 
-Copiar código
 npm run start:dev
 Esto iniciará el servidor en http://localhost:3000.
 
-Pruebas
-Para ejecutar las pruebas unitarias y de integración, utiliza:
+ **Pruebas**  
+
+Para ejecutar las pruebas, utiliza:
 
 
 npm run test
@@ -54,7 +55,7 @@ npm run test
 Esto ejecutará todos los tests definidos en la carpeta src/test.
 
 
-Documentación de la API
+ **Documentación de la API**  
 La documentación de la API está disponible en Swagger. Una vez que la aplicación esté en funcionamiento, visita http://localhost:3000/api para explorar y probar los endpoints de la API.
 
 Comentarios Adicionales
