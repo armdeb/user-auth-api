@@ -28,7 +28,7 @@ Asegúrate de tener instalados los siguientes programas en tu máquina:
    git clone https://github.com/tu-usuario/user-management-system.git
    cd user-management-system
 
- 2. **Clona el repositorio:**  
+ 2. **Configura dependencias:**  
   npm install
 
  3. **Configura la base de datos**  
